@@ -1,7 +1,5 @@
 # Hack-The-Box-Sequel-Writeup-Tier-0-Starting-Point-
 
-# Hack The Box: Sequel Writeup (Tier 0 — Starting Point)
-
 **Дата проведения аудита:** 12 октября 2026 г.
 **Лабораторный контур:** Kali Linux arm64 (Hypervisor: VMware Fusion Pro, Apple Silicon M4)
 **Целевой хост (Target IP):** `10.129.95.232`
